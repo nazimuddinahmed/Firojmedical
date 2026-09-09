@@ -1,0 +1,20 @@
+{
+  "shortcuts": [
+    {
+      "name": "Firojmedical",
+      "description": "View the list of podcasts you saved for later",
+      "url": "/firojmedical",
+      "icons": [
+        {
+          "src": "/icons/logo.png",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Firojmedical",
+      "description": "View the list of podcasts you listen to",
+      "url": "/subscriptions?sort=desc"
+    }
+  ]
+}
