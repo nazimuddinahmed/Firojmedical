@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.Onlinecenter",
+        "sha256_cert_fingerprints": ["D6:4C:E4:05:7A:33:67:E8:A5:DC:91:2B:E8:29:9E:C0:98:EE:6A:10:D3:7C:A1:65:93:BE:78:C5:55:19:90:D4"]
+      }
+    }]
