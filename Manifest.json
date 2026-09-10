@@ -1,7 +1,7 @@
 {
   "name": "Firojmedical",
   "short_name": "Firojmedical",
-  "description": "বিভিন্ন মেডিকেল পরিষেবা",
+  "description": "বিভিন্ন মেডিকেল পরিষেবা প্রদান করা হয়।",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
